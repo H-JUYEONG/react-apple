@@ -1,7 +1,9 @@
-<div>
-  <img src="docs/apple_logo.png" width="80" height="80" style="vertical-align: middle;">
-  <h1 style="display: inline; margin-left: 20px;">Apple 웹사이트 클론 코딩</h1>
-</div>
+<table>
+  <tr>
+    <td><img src="docs/apple_logo.png" width="80" height="80"></td>
+    <td><h1>Apple 웹사이트 클론 코딩</h1></td>
+  </tr>
+</table>
 
 ## 프로젝트 개요
 
