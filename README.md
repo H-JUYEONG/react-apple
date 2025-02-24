@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="docs/apple_logo.png" width="80" height="80"></td>
-    <td><strong style="font-size: 2em">Apple 웹사이트 클론 코딩</strong></td>
+    <td><strong style="font-size: 5em">Apple 웹사이트 클론 코딩</strong></td>
   </tr>
 </table>
 
