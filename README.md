@@ -1,8 +1,4 @@
-<p style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/1a84fc79-2e06-4b70-8b56-0fb6bf8d65b6" width="80" style="margin-right: 10px;">
-  <span style="font-size: 32px; font-weight: bold;">Apple 웹사이트 클론 코딩</span>
-</p>
-
+# ![custom emoji](docs/apple_logo.png) Apple 웹사이트 클론 코딩
 
 
 ## 프로젝트 개요
