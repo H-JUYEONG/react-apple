@@ -1,3 +1,7 @@
+<div style="display: flex; align-items: center;">
+  <img src="docs/apple_logo.png" width="80" height="80">
+  <h1 style="margin-left: 20px;">Apple 웹사이트 클론 코딩</h1>
+</div>
 
 ## 프로젝트 개요
 
