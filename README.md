@@ -1,8 +1,3 @@
-<div>
-  <img src="docs/apple_logo.png" width="80" height="80" align="left">
-  <h1 align="right">Apple 웹사이트 클론 코딩</h1>
-</div>
-
 
 ## 프로젝트 개요
 
