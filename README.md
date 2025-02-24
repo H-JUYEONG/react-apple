@@ -1,6 +1,6 @@
 <p>
-  <img src="docs/apple_logo.png" width="50" height="50">
-  <strong style="font-size: 24px;">Apple 웹사이트 클론 코딩</strong>
+  <img src="docs/apple_logo.png" width="80" height="80">
+  <strong style="font-size: 100px;">Apple 웹사이트 클론 코딩</strong>
 </p>
 
 
