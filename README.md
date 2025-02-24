@@ -1,10 +1,11 @@
-# 🍏 Apple 웹 서비스 클론 개발
+# ![pngwing com](https://github.com/user-attachments/assets/1a84fc79-2e06-4b70-8b56-0fb6bf8d65b6) Apple 웹 서비스 클론 개발
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Apple%20Clone-blue?style=for-the-badge" alt="Project Badge" />
 </p>
 
 ## 프로젝트 개요
+
 - **프로젝트명:** Apple (Apple 웹 서비스 클론 개발)
 - **개발 기간:** 2024.10.01 ~ 2024.10.14 (2주)
 - **팀 구성:** 5명
