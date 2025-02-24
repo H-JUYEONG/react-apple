@@ -1,4 +1,4 @@
-
+# ![custom emoji](docs/apple_logo.png) Apple 웹사이트 클론 코딩
 
 
 ## 프로젝트 개요
