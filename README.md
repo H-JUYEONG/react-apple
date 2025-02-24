@@ -1,7 +1,5 @@
-<p>
-  <img src="https://github.com/user-attachments/assets/1a84fc79-2e06-4b70-8b56-0fb6bf8d65b6" width="80" style="vertical-align: middle;">
-  <strong style="font-size: 50px;">Apple 웹사이트 클론 코딩</strong>
-</p>
+<img src="https://github.com/user-attachments/assets/1a84fc79-2e06-4b70-8b56-0fb6bf8d65b6" width="80" style="vertical-align: middle;"> # Apple 웹사이트 클론 코딩
+
 
 ## 프로젝트 개요
 
