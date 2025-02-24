@@ -1,4 +1,4 @@
-# <img src="docs/apple_logo.png" width="80" height="80"> Apple 웹사이트 클론 코딩
+# <img src="docs/apple_logo.png" width="100" height="100" align="center"> Apple 웹사이트 클론 코딩
 
 ## 프로젝트 개요
 
