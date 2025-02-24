@@ -1,70 +1,114 @@
-# Getting Started with Create React App
+🍏 Apple 웹 서비스 클론 개발
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📌 프로젝트 개요
 
-## Available Scripts
+프로젝트명: Apple (Apple 웹 서비스 클론 개발)
 
-In the project directory, you can run:
+개발 기간: 2024.10.01 ~ 2024.10.14 (2주)
 
-### `npm start`
+팀 구성: 5명
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+소개: Apple 웹 서비스의 관리자 기능을 구현하여 매장 및 상품 관리를 지원하고 운영의 효율성을 제공합니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🛠 사용 기술
 
-### `npm test`
+Frontend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Backend
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Database
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+DevOps
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+🚀 주요 기능
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+관리자 기능
 
-### Advanced Configuration
+매장 및 상품 관리
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+주문 및 재고 관리
 
-### Deployment
+사용자 권한 관리
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+상품 관리
 
-### `npm run build` fails to minify
+상품 등록, 수정, 삭제
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+카테고리별 상품 정리
+
+할인 및 프로모션 설정
+
+매장 관리
+
+오프라인 매장 등록 및 정보 수정
+
+매장별 재고 및 판매 관리
+
+📂 프로젝트 구조
+
+📦 apple-clone
+├── frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── services
+│   │   ├── App.js
+│   │   ├── index.js
+├── backend
+│   ├── src
+│   │   ├── main
+│   │   │   ├── java
+│   │   │   │   ├── com.appleclone
+│   │   │   │   │   ├── controller
+│   │   │   │   │   ├── service
+│   │   │   │   │   ├── repository
+│   │   │   │   │   ├── model
+│   │   │   │   │   ├── dto
+│   │   │   ├── resources
+│   │   │   │   ├── application.yml
+├── docker-compose.yml
+├── README.md
+
+🔧 설치 및 실행 방법
+
+1️⃣ 백엔드 실행 (Spring Boot)
+
+cd backend
+./mvnw spring-boot:run
+
+2️⃣ 프론트엔드 실행 (React)
+
+cd frontend
+npm install
+npm start
+
+3️⃣ Docker를 이용한 배포
+
+docker-compose up -d
+
+📜 라이선스
+
+이 프로젝트는 개인 학습 목적으로 개발되었습니다.
+
+📞 문의
+
+이름: H-JUYEONG
+
+이메일: your-email@example.com
+
+블로그: Tistory
+
