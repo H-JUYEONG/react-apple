@@ -1,4 +1,7 @@
-# ![custom emoji](docs/apple_logo.png) Apple 웹사이트 클론 코딩
+<p>
+  <img src="docs/apple_logo.png" width="50" height="50">
+  <strong style="font-size: 24px;">Apple 웹사이트 클론 코딩</strong>
+</p>
 
 
 ## 프로젝트 개요
