@@ -3,6 +3,8 @@
   <span style="font-size: 32px;"><strong>Apple 웹사이트 클론 코딩</strong></span>
 </p>
 
+# ![custom emoji](docs/이미지/메인리드미/100대램.png) Project 꼬깃
+
 
 
 ## 프로젝트 개요
@@ -16,14 +18,14 @@
 
 ## 사용 기술
 ### **Frontend**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
 ### **Backend**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white" />
@@ -35,7 +37,7 @@
 </p>
 
 ### **DevOps**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
